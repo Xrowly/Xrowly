@@ -1,49 +1,40 @@
-# Xrowly's GitHub Profile
+# Marios Diakatos (Xrowly) - Developer Bio
 
-Welcome to my GitHub profile! I'm **Xrowly**, a developer passionate about Python, deep learning, and building minimalistic tools. Below is an overview of my projects and interests.
+Hi, I'm **Marios Diakatos**, known online as **Xrowly**, a versatile developer with a passion for coding across a wide range of domains. I specialize in building innovative solutions from simulations to full-stack applications, game development, and minimalistic projects.
 
 ## About Me
 
-- **Username**: Xrowly
+- **Alias**: Xrowly
 - **GitHub**: [github.com/Xrowly](https://github.com/Xrowly)
-- **Focus**: Python development, deep learning, and retro-style game engines.
-- **Current Projects**: Prototyping lightweight applications and exploring GPU-based deep learning setups.
+- **Focus**: General programming with expertise in Python, Fortran, JavaScript, HTML, CSS, and Java.
+- **Domains**: Scientific simulations, full-stack web development, game development, and lightweight, minimal projects.
+- **Current Interests**: Crafting efficient, scalable applications and exploring creative coding for retro-style games and data-driven tools.
 
-## Popular Repositories
+## Skills & Expertise
 
-1. **[sputteringsystem](https://github.com/Xrowly/sputteringsystem)**  
-   Forked from thethoughtemporium/sputteringsystem  
-   A project exploring innovative systems for scientific applications.
+- **Languages**: Python, Fortran, JavaScript, HTML, CSS, Java
+- **Domains**:
+  - **Simulations**: Developing computational models for scientific and engineering applications.
+  - **Full-Stack Development**: Building responsive web applications with front-end (HTML/CSS/JavaScript) and back-end (Python/Java) technologies.
+  - **Game Development**: Creating retro-style games using Python (Pygame) and JavaScript for engaging, lightweight experiences.
+  - **Minimal Projects**: Designing dependency-free, efficient tools like the Simple-Minimalistic-Household-Finance-Manager using Python and Tkinter.
+- **Tools & Frameworks**: Pygame, Tkinter, Git, and various web development frameworks.
 
-2. **[Setup-NVIDIA-GPU-for-Deep-Learning](https://github.com/Xrowly/Setup-NVIDIA-GPU-for-Deep-Learning)**  
-   Forked from entbappy/Setup-NVIDIA-GPU-for-Deep-Learning  
-   A guide and setup scripts for configuring NVIDIA GPUs for deep learning tasks.
+## Featured Projects
 
-3. **[PygameMicroEngine](https://github.com/Xrowly/PygameMicroEngine)**  
-   A retro-style micro game engine built with Python and Pygame, designed for simplicity and nostalgia under the *RetroLore* project.
+- **[Simple-Minimalistic-Household-Finance-Manager](https://github.com/Xrowly/Simple-Minimalistic-Household-Finance-Manager)**: A Python/Tkinter-based desktop app for tracking finances with a local JSON backend, emphasizing simplicity and no external dependencies.
+- **[PygameMicroEngine](https://github.com/Xrowly/PygameMicroEngine)**: A retro-style game engine built with Python and Pygame, designed for hobbyist developers under the *RetroLore* project.
+- **Scientific Computing**: Contributions to forked projects like [sputteringsystem](https://github.com/Xrowly/sputteringsystem) for innovative scientific applications.
+- **Deep Learning Setup**: Forked and enhanced guides like [Setup-NVIDIA-GPU-for-Deep-Learning](https://github.com/Xrowly/Setup-NVIDIA-GPU-for-Deep-Learning) for GPU-based machine learning workflows.
 
-4. **[Simple-Minimalistic-Household-Finance-Manager](https://github.com/Xrowly/Simple-Minimalistic-Household-Finance-Manager)**  
-   A prototype desktop finance manager written in pure Python using Tkinter. Tracks categories, transactions, and cash balances with a local JSON file. No external dependencies required.
+## What I’m Working On
 
-## Projects Spotlight
-
-### Simple-Minimalistic-Household-Finance-Manager
-This project is a lightweight desktop application for managing household finances. Key features:
-- Tracks financial categories, transactions, and balances.
-- Uses a local JSON file for data persistence.
-- Built with Python and Tkinter for a minimalistic, dependency-free experience.
-
-### PygameMicroEngine
-A fun side project under the *RetroLore* banner, this micro game engine leverages Pygame to create retro-style games. It's designed to be simple yet extensible for hobbyist developers.
-
-## Contributions
-
-I enjoy forking and contributing to projects related to scientific computing and deep learning. Check out my forked repositories for updates and enhancements I’ve made to existing projects.
+I’m constantly exploring new challenges, from optimizing Fortran-based simulations for performance to building full-stack web apps with JavaScript, HTML, and CSS. My game development projects focus on retro aesthetics with modern usability, while my minimal projects prioritize clean, efficient code for practical use cases.
 
 ## Contact
 
-Feel free to reach out via GitHub for collaboration or project inquiries. You can also follow my work at [github.com/Xrowly](https://github.com/Xrowly).
+Reach out via [GitHub](https://github.com/Xrowly) for collaboration, project inquiries, or to discuss coding ideas. I’m always excited to connect with fellow developers and contribute to open-source projects.
 
 ## Footer
 
-&copy; 2025 Xrowly. Built with passion for open-source development.
+&copy; 2025 Marios Diakatos (Xrowly). Driven by a love for coding and problem-solving.
